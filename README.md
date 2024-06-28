@@ -18,7 +18,7 @@ Lembrando que o problema é seu se der algo errado ou falha ao usar meus trabalh
 * [Trabalho Interdisciplinar 2](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-2023-2-ti2-g27-tunerater)
 
 ## Período 3
-* [Arquitetura de Computadores 2](https://github.com/RafaelAmauri/Arquitetura-de-Computadores-2)
+* [Arquitetura de Computadores 2](https://github.com/VitorLucioOliveira/AC-II)
 * [Algoritmos e Estruturas de Dados 3](https://github.com/VitorLucioOliveira/AEDS-III)
 * [Banco de Dados](https://github.com/VitorLucioOliveira/Banco-de-Dados)
 * [Linguagens de Programação](https://github.com/VitorLucioOliveira/LP)
