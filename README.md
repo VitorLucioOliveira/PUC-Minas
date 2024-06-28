@@ -1,6 +1,6 @@
 # PUC Minas
 
-Códigos e projetos feitos durante minha graduação em Ciência da Computação (2023-2017). Cada link se refere a um repositório de uma matéria. 
+Códigos e projetos feitos durante minha graduação em Ciência da Computação (2023-2027). Cada link se refere a um repositório de uma matéria. 
 
 A minha intenção com esse repositório é ajudar os alunos do curso a não passarem por algumas das dificuldades que eu passei e terem algum recurso para aprender a matéria por fora ou ter uma ideia de o que os professores e professoras pedem, o que foi uma coisa que eu infelizmente não tive diversas vezes.
 
