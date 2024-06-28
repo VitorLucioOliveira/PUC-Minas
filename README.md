@@ -10,7 +10,7 @@ Lembrando que o problema é seu se der algo errado ou falha ao usar meus trabalh
 
 * [Algoritmos e Estruturas de Dados 1](https://github.com/VitorLucioOliveira/AEDS-I)
 * [Trabalho Interdisciplinar 1](https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-moda-e-estilo)
-* 
+  
 ## Período 2
 
 * [Algoritmos e Estruturas de Dados 2](https://github.com/VitorLucioOliveira/AEDS-II)
