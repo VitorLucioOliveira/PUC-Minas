@@ -21,6 +21,7 @@ O uso dos códigos neste repositório é por conta e risco do usuário! Tenha em
 * [Arquitetura de Computadores 2](https://github.com/RafaelAmauri/Arquitetura-de-Computadores-2)
 * [Algoritmos e Estruturas de Dados 3](https://github.com/VitorLucioOliveira/AEDS-III)
 * [Banco de Dados](https://github.com/VitorLucioOliveira/Banco-de-Dados)
-* [Linguagens de Programação](https://github.com/VitorLucioOliveira/Linguagens-de-Programacao)
+* [Linguagens de Programação](https://github.com/VitorLucioOliveira/LP)
+* [Trabalho Interdisciplinar 3](https://github.com/VitorLucioOliveira/TI-III)
 
 
