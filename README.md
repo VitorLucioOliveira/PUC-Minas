@@ -1,10 +1,10 @@
-# PUC Minas
+# PUC Minas :office:
 
 Códigos e projetos feitos durante minha graduação em Ciência da Computação (2023-2027). Cada link se refere a um repositório de uma matéria. 
 
-Esse repositorio pode ser usado como base ou metodo de estudo para outros alunos que estajam passando por dificuldades, esperando que ajude eles
+Esse repositorio pode ser usado como base ou metodo de estudo para outros alunos que estajam passando por dificuldades, esperando que ajude eles :blush:
 
-Lembrando que o problema é seu se der algo errado ou falha ao usar meus trabalhos
+Lembrando que o problema é seu se der algo errado ou falha ao usar meus trabalhos 🎉🎉
 
 ## Período 1
 
