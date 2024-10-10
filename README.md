@@ -26,6 +26,7 @@ Lembrando que o problema é seu se der algo errado ou falha ao usar meus trabalh
 
 ## Período 4
 * [Teoria dos Grafos e Computabilidade](https://github.com/VitorLucioOliveira/Grafos)
+* [Inteligência Artificial](https://github.com/VitorLucioOliveira/Inteligencia-Artificial)
 
 
 
