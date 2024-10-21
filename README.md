@@ -28,6 +28,7 @@ Lembrando que o problema é seu se der algo errado ou falha ao usar meus trabalh
 * [Teoria dos Grafos e Computabilidade](https://github.com/VitorLucioOliveira/Grafos)
 * [Inteligência Artificial](https://github.com/VitorLucioOliveira/Inteligencia-Artificial)
 * [Laboratório de Desenvolvimento Mobile](https://github.com/LDDM-PUC-MG/leaf)
+* [Modelagem e Avaliação de Desempenho](https://github.com/VitorLucioOliveira/Modelagem)
 
 
 
