@@ -10,6 +10,7 @@ Lembrando que o problema é seu se der algo errado ou falha ao usar meus trabalh
 
 * [Algoritmos e Estruturas de Dados 1](https://github.com/VitorLucioOliveira/AEDS-I)
 * [Trabalho Interdisciplinar 1](https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-moda-e-estilo)
+* [Desenvolvimento de Interfaces Web](https://github.com/VitorLucioOliveira/DIW)
   
 ## Período 2
 
@@ -38,6 +39,9 @@ Lembrando que o problema é seu se der algo errado ou falha ao usar meus trabalh
 * [Arquitetura de Computadores III](https://github.com/VitorLucioOliveira/AC-III)
 * [Redes I](https://github.com/VitorLucioOliveira/Redes.git)
 
+* ## Período 6
+* [Geometria Analítica e Álgebra Linear](https://github.com/VitorLucioOliveira/GAAL)
+* [Computação Paralela](https://github.com/VitorLucioOliveira/CP)
 
 
 
