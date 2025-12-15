@@ -42,6 +42,8 @@ Lembrando que o problema é seu se der algo errado ou falha ao usar meus trabalh
 * ## Período 6
 * [Geometria Analítica e Álgebra Linear](https://github.com/VitorLucioOliveira/GAAL)
 * [Computação Paralela](https://github.com/VitorLucioOliveira/CP)
+* [Fundamentos Teóricos da Computação](https://github.com/VitorLucioOliveira/FTC)
+* [Processamento e Análise de Imagens](https://github.com/VitorLucioOliveira/PAI)
 
 
 
