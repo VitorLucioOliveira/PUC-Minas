@@ -45,6 +45,12 @@ Lembrando que o problema é seu se der algo errado ou falha ao usar meus trabalh
 * [Fundamentos Teóricos da Computação](https://github.com/VitorLucioOliveira/FTC)
 * [Processamento e Análise de Imagens](https://github.com/VitorLucioOliveira/PAI)
 
+## Período 7
+* [Tópicos II](https://github.com/VitorLucioOliveira/Topicos-II)
+* [Computação Gráfica](https://github.com/VitorLucioOliveira/CG)
+* [Redes II](https://github.com/VitorLucioOliveira/Redes-II)
+
+
 
 
 
